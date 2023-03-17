@@ -14,7 +14,7 @@ public class ColorMenu extends JFrame {
     JList bgList;
 
     private String[] backgroundNameArray = { "     PINK","    TEAL","  WHITE", "BROWN"   };
-    private String[] backgroundClassArray = { "images/Teal.png", "images/Pink.png", "images/White.png", "images/Brown.png"}; 
+    private String[] backgroundClassArray = { "images/Pink.png", "images/Teal.png", "images/White.png", "images/Brown.png"}; 
 
     ColorMenu() {
 
